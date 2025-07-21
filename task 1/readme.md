@@ -2,6 +2,7 @@
 
 This Python project lets you search Twitter and Reddit posts using either voice or text input,
 filters them using NVIDIA’s LLaMA 3 (70B) for relevance, and logs the top results into a Google Sheet.
+Link to the google sheet: https://docs.google.com/spreadsheets/d/1WN5Yu_X1VFLGi9h1beD419wlM5c0XbUJ06lMZwCdlnQ/edit?usp=sharing
 
 🚀 Features
 🎙️ Voice and text query support
