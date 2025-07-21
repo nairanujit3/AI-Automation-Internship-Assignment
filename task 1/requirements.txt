@@ -1,0 +1,7 @@
+praw
+tweepy
+gspread
+oauth2client
+python-dotenv
+SpeechRecognition
+pyaudio
